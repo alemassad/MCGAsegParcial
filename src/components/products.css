@@ -1,0 +1,12 @@
+table{
+    border-radius: 10px;
+    align-items: center;
+}
+th{
+    border: solid 3px;
+    background-color: rgb(186, 238, 221);
+}
+td{
+    border: solid 1px;
+    background-color: rgb(211, 231, 238);
+}
